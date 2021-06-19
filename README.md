@@ -1,4 +1,8 @@
-### Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=cobaltblu27&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+<!-- 어째서인지 VHDL만 나오고있다.. 
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=cobaltblu27&layout=compact&theme=dracula)
+-->
 
 <!--
 **cobaltblu27/cobaltblu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
